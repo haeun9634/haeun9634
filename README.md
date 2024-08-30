@@ -2,18 +2,28 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
 <br>
+
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=haeun9634)](https://solved.ac/{userid})
 
 
+<h3 align="center">✨ Tech Stack ✨</h3>
 # Stack - programing langeauge 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+
+<br>
+
+[!<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp] 
+[!<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp]
+[!<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp]
+
+<br><br>
 
 # Stack - Back-End
-<img src="https://img.shields.io/badge/Node.JS-5FA04E?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+[!<img src="https://img.shields.io/badge/Node.JS-5FA04E?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp] 
+[!<img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp] 
 
+
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun9634&layout=compact)
 
 Link
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-red?style=flat-square&logo=tistory&link=https://mint10.tistory.com/)](https://mint10.tistory.com/)
