@@ -28,8 +28,8 @@
 
 <h3>💻 Projects 💻</h3>
 <div>
-  <img src="https://github.com/user-attachments/assets/eaa91c90-a436-4130-9002-ff3630e81653" width="200px" alt="Project 1" />
-  <img src="https://github.com/user-attachments/assets/053d17d0-aae6-4ac8-8669-e4616c70f11d" width="200px" alt="Project 2" />
+  <img src="https://github.com/user-attachments/assets/eaa91c90-a436-4130-9002-ff3630e81653" width="100px" alt="Project 1" />
+  <img src="https://github.com/user-attachments/assets/053d17d0-aae6-4ac8-8669-e4616c70f11d" width="100px" alt="Project 2" />
 </div>
 
 <br>
