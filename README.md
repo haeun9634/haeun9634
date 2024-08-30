@@ -15,9 +15,12 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 </div>
 
-<br><br>
+<br>
 
 <h3 align ="center"># Stack - Back-End </h3>
 <div align="center">
@@ -26,13 +29,14 @@
 </div>
 
 
-<br>
+<br> <br> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun9634&layout=compact)
 
-<h1> Link : 
-  
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-red?style=flat-square&logo=tistory&link=https://mint10.tistory.com/)](https://mint10.tistory.com/)</h1>
+<h1 align="center"> Link </h1>
+  <div align="center">
+    
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-red?style=flat-square&logo=tistory&link=https://mint10.tistory.com/)](https://mint10.tistory.com/)</div>
   
 
 
