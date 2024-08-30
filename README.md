@@ -2,7 +2,7 @@
  <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) -->
 
 
-<h2>🍀 새싹 개발자 민트/박하은 🍀</h2>
+<h2>🍀 Sprout Developer Mint 🍀</h2>
 
 
 <h3>🗒️ Tech Stack 🗒️</h3>
