@@ -12,24 +12,27 @@
 <br>
 
 <div align="center">
-[!<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp] 
-[!<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp]
-[!<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp]
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
 </div>
 
 <br><br>
 
 <h3 align ="center"># Stack - Back-End </h3>
-[!<img src="https://img.shields.io/badge/Node.JS-5FA04E?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp] 
+<div align="center">
+<img src="https://img.shields.io/badge/Node.JS-5FA04E?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
+</div>
 
 
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun9634&layout=compact)
 
-Link
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-red?style=flat-square&logo=tistory&link=https://mint10.tistory.com/)](https://mint10.tistory.com/)
+<h1> Link : 
+  
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-red?style=flat-square&logo=tistory&link=https://mint10.tistory.com/)](https://mint10.tistory.com/)</h1>
   
 
 
