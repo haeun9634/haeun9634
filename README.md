@@ -35,29 +35,34 @@
 <br>
 
 <h3>📓 Active 📓</h3>
-<table>
+<table border="1" cellpadding="10" cellspacing="0">
   <thead>
     <tr>
       <th>Organization</th>
       <th>Duration</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>가톨릭대 알고리즘 스터디 동아리 'ALCUK'</td>
       <td>2023.06 ~ 현재</td>
+      <td>알고리즘 문제 해결 및 토론하는 동아리 부원</td>
     </tr>
     <tr>
       <td>GDSC CUK GCC 스터디 수료</td>
       <td>2024.01 ~ 2024.06</td>
+      <td>Google IT 지원 수료증 이수, 기술 지원 기초 스터디 수료</td>
     </tr>
     <tr>
-      <td>UMC CUK 6기 Node.js</td>
+      <td>IT 연합 프로젝트 동아리 UMC CUK 6기</td>
       <td>2024.03 ~ 2024.08</td>
+      <td>Node.Js 스터디원으로 활동하며 앱 애플리케이션 개발</td>
     </tr>
     <tr>
-      <td>GDSC CUK 3기 Core Member Tech</td>
+      <td>GDSC CUK 3기 Core Member</td>
       <td>2024.08 ~ 현재</td>
+      <td>Tech팀 팀장으로 스터디 관리</td>
     </tr>
   </tbody>
 </table>
