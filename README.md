@@ -1,7 +1,6 @@
 ## 안녕하세요! 새싹 개발자 민트/박하은 입니다.
 
-<!--
-**haeun9634/haeun9634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--*haeun9634/haeun9634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun9634&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeun9634&show_icons=true&theme=radical)]
