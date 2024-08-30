@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" />
   <img src="https://img.shields.io/badge/VSCode-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
-  <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
 
 <br>
