@@ -4,7 +4,7 @@
 
 <h2>🌱 Aspiration 🌱</h2>
 <p>Growing from a sapling to a vast forest in tech.</p>
-
+<br>
 <h2>🔍 Currently Studying 🔍</h2>
 <p>Backend & Frontend Development</p>
 
