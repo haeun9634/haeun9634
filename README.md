@@ -1,10 +1,7 @@
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) -->
 <div align="left">
-  <h1>🍀 Sapling Developer Haeun Park's GitHub 🍀</h1>
+  <h1>🍀 Welcome to Haeun Park's GitHub 🍀</h1>
 
-<h2>🌱 Aspiration 🌱</h2>
-<p>Growing from a sapling to a vast forest in tech.</p>
-<br>
 <h2>🔍 Currently Studying 🔍</h2>
 <p>Backend & Frontend Development</p>
 
