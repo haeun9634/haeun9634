@@ -81,7 +81,8 @@
 <br>
 
   <h2> Solved.ac </h2>
-[![Solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=haeun9634)](https://solved.ac/haeun9634)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=haeun9634)](https://solved.ac/profile/haeun9634)
+
 
   <br>
   <h2>🔗 Links 🔗</h2>
