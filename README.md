@@ -79,7 +79,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun9634&layout=compact) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeun9634&show_icons=true&theme=radical)](https://github.com/haeun9634)
 
 <br>
-  
+
+  <h2> Solved.ac </h2>
+[![Solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=haeun9634)](https://solved.ac/haeun9634)
+
+  <br>
   <h2>🔗 Links 🔗</h2>
   <div>
     <a href="https://mint10.tistory.com/" target="_blank">
