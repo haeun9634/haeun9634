@@ -2,7 +2,7 @@
 
 <h1>🍀 Welcome to Haeun Park's GitHub 🍀</h1> 
 
-<h2>🔍 Backend & Frontend Development🔍</h2>
+<!-- <h2>🔍 Backend & Frontend Development🔍</h2>-->
 
   <h2>🗒️ Tech Stack 🗒️</h2>
   <div>
