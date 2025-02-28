@@ -34,7 +34,7 @@
   </div>
   
   <br>
-  
+  <!--
   <h2>📓 Active 📓</h2>
   <div align="center">
     <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 80%;">
@@ -69,7 +69,7 @@
         </tr>
       </tbody>
     </table>
-  </div>
+  </div>-->
   
   <br>
 
