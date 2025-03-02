@@ -26,7 +26,7 @@
   </div>
   
   <br>
-  
+    <!--
   <h2>💻 Projects 💻</h2>
   <div>
     <img src="https://github.com/user-attachments/assets/eaa91c90-a436-4130-9002-ff3630e81653" width="100px" alt="Project 1" />
@@ -34,7 +34,7 @@
   </div>
   
   <br>
-  <!--
+
   <h2>📓 Active 📓</h2>
   <div align="center">
     <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 80%;">
