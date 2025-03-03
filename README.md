@@ -70,6 +70,12 @@
     <img src="https://github.com/user-attachments/assets/eaa91c90-a436-4130-9002-ff3630e81653" width="100px" alt="Project 1" /> </a>
    <a href="https://github.com/Link-zip">
     <img src="https://github.com/user-attachments/assets/ed144b24-af4a-44e1-91f4-e9d53b0414ed" width="100px" alt="Project 2" /></a>
+   <a href="https://github.com/Finance-uss">
+    <img src="https://github.com/user-attachments/assets/5017889b-b8cf-4081-bd3a-d391a1ce0b79" width="100px" alt="Project 3" /></a>
+   <a href="https://github.com/GDG-ZIMEET">
+    <img src="https://avatars.githubusercontent.com/u/192482522?s=200&v=4" width="100px" alt="Project 4" /></a>
+
+
 
 
   </div>
