@@ -66,7 +66,7 @@
 
   ### 💻 Projects 💻
   <div>
-   <a href="http">
+   <a href="https://github.com/haeun9634/ChangHaeCafe">
     <img src="https://github.com/user-attachments/assets/eaa91c90-a436-4130-9002-ff3630e81653" width="100px" alt="Project 1" /> </a>
    <a href="https://github.com/Link-zip">
     <img src="https://github.com/user-attachments/assets/ed144b24-af4a-44e1-91f4-e9d53b0414ed" width="100px" alt="Project 2" /></a>
