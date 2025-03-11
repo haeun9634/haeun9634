@@ -52,6 +52,7 @@
 
 | Organization                               | Duration              | Description                             |
 |:------------------------------------:|:-----------------:|:----------------------------------:|
+| IT 연합 프로젝트 동아리 UMC CUK 8기   | 2025.03 ~ 현재 | Android 스터디장               |
 | GDGoC CUK 4기 Team Member            | 2025.01 ~ 현재   | 운영진 HR팀                        |
 | IT 연합 프로젝트 동아리 UMC CUK 7기   | 2024.09 ~ 2025.02 | SpringBoot 스터디장               |
 | GDGoC CUK 3기 Team Member            | 2024.08 ~ 2024.12 | 운영진 Tech팀                     |
