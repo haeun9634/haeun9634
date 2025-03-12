@@ -7,7 +7,7 @@
 <div align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=1AF7D0&background=93FDFF00&center=true&width=680&height=55&lines=Welcom+to+Haeun's+GitHub" alt="Typing SVG" /></a>
 
- ### FULLSTACK DEVELOPER  ✨ </div>
+ ## FULLSTACK DEVELOPER  ✨ </div>
  
   ### 🗒️ Tech Stack 🗒️
  <br>
