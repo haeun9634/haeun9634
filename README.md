@@ -86,7 +86,6 @@
   ### 📊 GitHub Stats 📊
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeun9634&show_icons=true&theme=radical)](https://github.com/haeun9634)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun9634&layout=compact&theme=radical)
 
 <br>
