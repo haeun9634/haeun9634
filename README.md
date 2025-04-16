@@ -6,9 +6,9 @@
 <div align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=1AF7D0&background=93FDFF00&center=true&width=680&height=55&lines=Welcom+to+Haeun's+GitHub" alt="Typing SVG" /></a>
 
- ## BACKEND DEVELOPER  ✨ </div>
+ ## ✨ BACKEND DEVELOPER  ✨ </div>
  
-  ### Tech Stack 🗒️
+  ### 🗒️ Tech Stack 🗒️
  <br>
   <div align=center>
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" /> 
@@ -29,7 +29,7 @@
   
   <br>
   
-  ### Tools 🛠
+  ### 🛠 Tools 🛠
   <br>
    <div align=center>
     <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" />
@@ -45,7 +45,7 @@
   
   <br>
 
-  ###  Active 📓
+  ### 📓 Active 📓
 
 <div align=center>
 
@@ -64,7 +64,7 @@
 
   <br>
 
-  ### Projects 💻
+  ### 💻 Projects 💻
   <div>
 <!--    <a href="https://github.com/haeun9634/ChangHaeCafe">
     <img src="https://github.com/user-attachments/assets/eaa91c90-a436-4130-9002-ff3630e81653" width="100px" alt="Project 1" /> </a> -->
@@ -82,7 +82,7 @@
   
   <br>
 
-  ### GitHub Stats 📊
+  ### 📊 GitHub Stats 📊
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeun9634&show_icons=true&theme=radical)](https://github.com/haeun9634)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun9634&layout=compact&theme=radical)
