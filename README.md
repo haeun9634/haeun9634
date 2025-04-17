@@ -89,7 +89,7 @@
 
 <br>
 
-  ### Solved.ac 
+  ### ✨ Solved.ac ✨ 
   
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=haeun9634)](https://solved.ac/profile/haeun9634)
 
