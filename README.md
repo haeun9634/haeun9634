@@ -45,7 +45,7 @@
   
   <br>
 
-  ### 📓 Active 📓
+  ###  Active 
 
 <div align=center>
 
