@@ -89,8 +89,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun9634&layout=compact&theme=radical)
 
 <br>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/haeun9634"/>
+</a>
 
-  ### ✨ Solved.ac ✨ 
+### ✨ Solved.ac ✨ 
   
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=haeun9634)](https://solved.ac/profile/haeun9634)
 
