@@ -64,11 +64,11 @@
 
 
   <br>
-
+<!-- 
   ### 💻 Projects 💻
   <div>
-<!--    <a href="https://github.com/haeun9634/ChangHaeCafe">
-    <img src="https://github.com/user-attachments/assets/eaa91c90-a436-4130-9002-ff3630e81653" width="100px" alt="Project 1" /> </a> -->
+   <a href="https://github.com/haeun9634/ChangHaeCafe">
+    <img src="https://github.com/user-attachments/assets/eaa91c90-a436-4130-9002-ff3630e81653" width="100px" alt="Project 1" /> </a>
    <a href="https://github.com/Link-zip">
     <img src="https://github.com/user-attachments/assets/ed144b24-af4a-44e1-91f4-e9d53b0414ed" width="100px" alt="Project 2" /></a>
    <a href="https://github.com/Finance-uss">
@@ -76,7 +76,7 @@
    <a href="https://github.com/GDG-ZIMEET">
     <img src="https://avatars.githubusercontent.com/u/192482522?s=200&v=4" width="100px" alt="Project 4" /></a>
 
-
+ -->
 
 
   </div>
@@ -84,10 +84,9 @@
   <br>
 
   ### 📊 GitHub Stats 📊
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeun9634&show_icons=true&theme=radical)](https://github.com/haeun9634)
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeun9634&layout=compact&theme=radical)
-
+-->
 <br>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/haeun9634"/>
